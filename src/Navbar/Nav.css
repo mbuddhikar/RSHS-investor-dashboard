@@ -1,0 +1,35 @@
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(3, 59, 59);
+  }
+  
+  .link {
+    float: left;
+  }
+  .linklogout {
+    float: right;
+    display: block;
+    color: rgb(251, 251, 251);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+  }
+  
+  .link {
+    display: block;
+    color: rgb(251, 251, 251);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .link:hover {
+    background-color: rgb(41, 2, 6);
+  }
+
+ 
